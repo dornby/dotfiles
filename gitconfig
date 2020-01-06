@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = hdornbierer@gmail.com,
+	email = hdornbierer@gmail.com
 	name = Hugo Dornbierer
