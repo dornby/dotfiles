@@ -3,8 +3,9 @@ ZSH=$HOME/.oh-my-zsh
 # You can change the theme with another one:
 #   https://github.com/robbyrussell/oh-my-zsh/wiki/themes
 ZSH_THEME="powerlevel9k/powerlevel9k"
-POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(dir vcs)
-POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status nvm rvm time)
+POWERLEVEL9K_CHRUBY_SHOW_VERSION=true
+POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=('dir' 'vcs')
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=('status' 'nvm' 'time')
 
 # Useful oh-my-zsh plugins for Le Wagon bootcamps
 plugins=(git gitfast last-working-dir common-aliases sublime zsh-syntax-highlighting history-substring-search zsh-autosuggestions)
