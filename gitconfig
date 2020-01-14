@@ -19,6 +19,7 @@
   br = branch
   ci = commit
   fo = fetch origin
+  pom = push origin master
   d = !git --no-pager diff
   dt  = difftool
   stat = !git --no-pager diff --stat
