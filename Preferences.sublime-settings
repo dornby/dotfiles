@@ -22,6 +22,7 @@
 		".pytest_cache",
 		"__pycache__"
 	],
+	"font_face": "Fira Code",
 	"font_size": 13,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
@@ -29,6 +30,7 @@
 	[
 		"Vintage"
 	],
+	"open_files_in_new_window": false,
 	"remember_full_screen": true,
 	"remember_open_files": false,
 	"rulers":

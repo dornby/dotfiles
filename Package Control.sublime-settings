@@ -12,12 +12,16 @@
 		"Emmet",
 		"ERB Snippets",
 		"Git",
+		"JavaScript Completions",
 		"Latest Migration",
 		"MagicPython",
 		"Material Theme",
 		"Package Control",
+		"Pretty JSON",
 		"SCSS",
 		"SublimeLinter",
-		"SublimeLinter-rubocop"
+		"SublimeLinter-eslint",
+		"SublimeLinter-rubocop",
+		"Tailwind CSS Autocomplete"
 	]
 }
